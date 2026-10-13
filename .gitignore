@@ -1,0 +1,30 @@
+# =========================
+# R / RStudio
+# =========================
+
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user
+.Rproj
+
+### DADOS AMOSTRAIS
+
+*.csv
+
+### DADOS GRANDES
+
+*.duckdb
+*.duckdb.tmp
+*.rds
+
+
+### DADOS DE ENTRADA E CREDENCIAIS
+# Bases de notificacao sao sigilosas: nenhuma entra no repositorio
+
+*.xlsx
+*.xls
+*.parquet
+*.zip
+.Renviron
+.env
